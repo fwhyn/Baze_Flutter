@@ -57,6 +57,31 @@ unlinked_spec.ds
 **/android/key.properties
 *.jks
 
+## Gradle files
+release/
+
+## Android Studio generated files and folders
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+## IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+## Keystore files
+*.keystore
+
+## Google Services (e.g. APIs or Firebase)
+google-services.json
+
+## Android Profiling
+*.hprof
+
 # iOS/XCode related
 **/ios/**/*.mode1v3
 **/ios/**/*.mode2v3
